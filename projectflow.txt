@@ -24,15 +24,6 @@ Expermients with DVC:
 17> Change params, re-run code (produce new experiments)
 18> Now git add, commit, push
 
-
-
-
-
-
-
-
-
-
 -------------------------------------------------------------------------------
 
 params.yaml setup:
